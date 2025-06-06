@@ -2,10 +2,6 @@
 
 Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
-# MERN Social Media Clone
-
-A full-stack social media web app built with the MERN stack (MongoDB, Express.js, React.js, Node.js).  
-Users can register, login, create posts, like, comment, and manage their profile.
 
 ## 🔥 Features
 
